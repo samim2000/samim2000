@@ -1,7 +1,7 @@
-### Hi there, I'm Vineet 👋
+### Hi there, I'm Samim 👋
 
 
-## I'm an Engineer, a Data Scientist, and Life Long Learner!
+## I'm a third year undergraduate engineering student in IT from KIIT, Bhubaneswar.
 - 🔭 I’m currently working on a Time Series Forecasting Project!
 - 🌱 I’m currently Learning everything.
 - 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
