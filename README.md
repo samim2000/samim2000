@@ -13,7 +13,7 @@
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=samim2000&color=7957d5)
 
-[<img align="left" alt="samim2000 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="samim2000 | LinkedIn" width="22px" <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [<img align="left" alt="samim2000 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 
@@ -34,8 +34,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"></code>
 <br>
-
----
 
 ---
 
