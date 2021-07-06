@@ -37,12 +37,6 @@
 
 ---
 
-### 📘 Latest Blog Posts:
-- [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
-- [How to Lie with Statistics](https://spotle.ai/feeddetails/How-To-Lie-With-Statistics/7452)
-- [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
-- [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
-
 ---
 
 ### 🏆 Github Stats:
