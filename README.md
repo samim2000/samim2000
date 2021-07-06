@@ -39,7 +39,7 @@
 
 ### 🏆 Github Stats:
 
-<img alt="samim2000's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=samim2000&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515/>
+<img src = "https://github-readme-stats.vercel.app/api?username=samim2000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 <img alt="samim2000's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samim2000&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
