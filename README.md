@@ -15,7 +15,7 @@
 
 [<img align="left" alt="samim2000 | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
-[<img align="left" alt="samim2000 | Gmail" width="100px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
+[<img align="left" alt="samim2000 | Gmail" width="80px" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]
 
 <br>
 
