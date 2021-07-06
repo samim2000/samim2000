@@ -47,4 +47,4 @@
 [linkedin]: https://www.linkedin.com/in/samim-hossain-mondal-594a27190/
 [gmail]: mailto:samimka05@gmail.com
 
-⭐️ From [Samim Hossain Mondal](https://github.com/samim2000)
+⭐️ Visit my portfolio [Samim Hossain Mondal](https://samim2000.github.io/my-portfolio/)
