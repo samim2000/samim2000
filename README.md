@@ -11,7 +11,7 @@
 
 
 ### 🤝 Connect with me:
-![](https://komarev.com/ghpvc/?username=jha-vineet69&color=7957d5)
+![](https://komarev.com/ghpvc/?username=samim2000&color=7957d5)
 
 [<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
