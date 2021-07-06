@@ -2,11 +2,11 @@
 
 
 ## I'm a third year undergraduate engineering student in IT from KIIT, Bhubaneswar.
-- 🔭 I’m currently working on a Time Series Forecasting Project!
-- 🌱 I’m currently Learning everything.
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
-- ⚡ Fun fact: I love to bingewatch movies and play sports.
-
+- 🔭 PRISM Research Intern at Samsung R&D India.
+- 💻 Skillful Knowledge in C/C++, Data Structures & Algorithms, Problem Solving.
+- 🥅 Goals: To make me best at which I am good.
+- 😄 Pronouns: He/His
+- 💬 Ask me about DSA / Web Development / Deep Learning(ANN/CNN/RNN).
 ---
 
 
