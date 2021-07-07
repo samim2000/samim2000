@@ -8,10 +8,9 @@
 - 😄 Pronouns: He/His
 - 💬 Ask me about DSA / Web Development / Deep Learning(ANN/CNN/RNN).
 ---
-
+![](https://komarev.com/ghpvc/?username=samim2000&color=7957d5)
 
 ### 🤝 Connect with me:
-![](https://komarev.com/ghpvc/?username=samim2000&color=7957d5)
 
 [<img align="left" alt="samim2000 | LinkedIn" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
