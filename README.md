@@ -6,7 +6,7 @@
 - 💻 Skillful Knowledge in C/C++, Data Structures & Algorithms, Problem Solving.
 - 🥅 Goals: To make me best at which I am good.
 - 😄 Pronouns: He/His
-- 💬 Ask me about DSA / Web Development / Deep Learning(ANN/CNN/RNN).
+- 💬 Ask me about DSA | Web Development | Deep Learning(ANN/CNN/RNN).
 ---
 ![](https://komarev.com/ghpvc/?username=samim2000&color=7957d5)
 
